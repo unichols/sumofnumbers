@@ -1,4 +1,4 @@
-const _ = require('./__cdnjs.cloudflare.com_ajax_libs_underscore.js_1.8.3_underscore.js');
+// const _ = require('./__cdnjs.cloudflare.com_ajax_libs_underscore.js_1.8.3_underscore.js');
 function sumFor(data) {
   let sum = 0;
   for (let i = 0; i < data.length; i++) {
